@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitjain0695" alt="sumitjain0695" /></a> </p>
 
-- 💬 Ask me about **Reactjs, Django, Beego, REST, Machine Learning, Competitive Programming**
+- 💬 Ask me about **Reactjs, Django, REST, Machine Learning, Competitive Programming**
 
 - 📫 How to reach me **sumjain1992@gmail.com**
 
