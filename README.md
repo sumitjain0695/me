@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sumjain1992@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mBXQp_IomJ-JxgoKy5_4G1fWsTVh5fr6/view?usp=sharing](https://drive.google.com/file/d/1mBXQp_IomJ-JxgoKy5_4G1fWsTVh5fr6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UqGBNjgiFn73B0nTNbgXQ9Cm6Q-d8gnu/view?usp=sharing](https://drive.google.com/file/d/1UqGBNjgiFn73B0nTNbgXQ9Cm6Q-d8gnu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
