@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Jain</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-- 💬 Ask me about **Reactjs, Django, REST, Machine Learning, Competitive Programming**
+- 💬 Ask me about **Javascript, Reactjs, Nextjs, Django, REST, Machine Learning, Competitive Programming**
 
 - 📫 How to reach me **sumjain1992@gmail.com**
 
