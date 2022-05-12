@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://sumitjain0695.vercel.app/" target="blank">Sumit Jain</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://sumitjain0695.vercel.app/" target="_blank">Sumit Jain</a></h1>
 <h3 align="center">A Full Stack developer</h3>
 
 - 💬 Ask me about **Javascript, Reactjs, Nextjs, Django, REST, Machine Learning, Competitive Programming**
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumit-jain-0b0001179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-jain-0b0001179" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit-jain-0b0001179" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-jain-0b0001179" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9221108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9221108" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumjain1992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumjain1992" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@captain__price" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@captain__price" height="30" width="40" /></a>
