@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sumjain1992@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gbXi3GKgl5a8irDfcGUPAFMLq0SRswHEbZ8wf5E9RUs/edit?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1gbXi3GKgl5a8irDfcGUPAFMLq0SRswHEbZ8wf5E9RUs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
