@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sumitjain0695.vercel.app/" target="_blank">Sumit Jain</a></h1>
-<h3 align="center">A Full Stack developer</h3>
+<h3 align="center">Web developer</h3>
 
 - 💬 Ask me about **Javascript, Reactjs, Nextjs, Django, REST, Machine Learning, Competitive Programming**
 
-- 📫 How to reach me **sumitjain0695@gmail.com**
+- 📫 How to reach me **sumjain1992@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1gbXi3GKgl5a8irDfcGUPAFMLq0SRswHEbZ8wf5E9RUs/edit?usp=sharing)
 
