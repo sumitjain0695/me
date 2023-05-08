@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **sumjain1992@gmail.com**
 
-- 📄 Know about my experiences (https://docs.google.com/document/d/1gbXi3GKgl5a8irDfcGUPAFMLq0SRswHEbZ8wf5E9RUs/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumit-jain-0b0001179" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-jain-0b0001179" height="30" width="40" /></a>
